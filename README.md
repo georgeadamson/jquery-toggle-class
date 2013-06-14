@@ -1,7 +1,7 @@
 jquery-toggle-class
 ===================
 
-Any element decorated with a **data-toggle-active-class-for** attribute will now toggle a class on a related element.
+Decorate any element with a **data-toggle-active-class-for** attribute to make it toggle a class on a related element when you click it.
 
 No further coding needed.
 
